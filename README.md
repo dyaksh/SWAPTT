@@ -1,7 +1,3 @@
-Here is your **formatted `README.md`** content, ready to copy and paste directly into your project folder as `README.md`:
-
----
-
 ````markdown
 # 🛡️ SWAPT - Streamlit Web Application Penetration Testing Tool
 
@@ -78,13 +74,7 @@ SWAPT/
 | `ip_lookup.py`         | Retrieves IP and location info         |
 | `builtwith.py`         | Identifies technology stack            |
 
----
 
-## 📸 Screenshots *(Optional)*
-
-> Add screenshots here if you want to showcase the UI or scan results visually.
-
----
 
 ## ✅ Roadmap
 
@@ -115,20 +105,3 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE)
 🔗 GitHub: [https://github.com/dyaksh/SWAPTT](https://github.com/dyaksh/SWAPTT)
 
 ````
-
----
-
-### ✅ To use this:
-
-1. Open your project folder.
-2. Create a file named `README.md`.
-3. Paste the entire content above into that file.
-4. Save and commit:
-
-```bash
-git add README.md
-git commit -m "Add formatted README"
-git push
-````
-
-Let me know if you want a version with screenshots, badges (e.g., "Built with Python", license, etc.), or a short project demo GIF.
