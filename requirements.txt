@@ -1,0 +1,14 @@
+streamlit
+pillow
+matplotlib
+pandas
+plotly
+cryptography
+numpy
+scikit-learn
+scipy
+pyopenssl
+dnspython
+requests
+beautifulsoup4
+lxml
